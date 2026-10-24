@@ -1,0 +1,86 @@
+{
+  "hero": {
+    "title": "SZTANGA STUDIO",
+    "subtitle": "Trener Personalny Online",
+    "description": "Pomogę Ci zmienić Twoją sylwetkę! Wiedza trenerska oparta o badania naukowe oraz lata doświadczenia w pracy z podopiecznymi pozwolą Ci osiągnąć szybkie i bezpieczne efekty.",
+    "bullets": [
+      "Indywidualne plany treningowe online",
+      "Konsultacje dietetyczne i żywieniowe",
+      "Monitoring postępów i stała opieka",
+      "Trening w domu lub na siłowni"
+    ],
+    "ctaText": "Zacznij Przemianę",
+    "imageAlt": "Trener personalny online - Sztanga Studio"
+  },
+  "about": {
+    "title": "O MNIE",
+    "subtitle": "Trener Personalny z Pasją",
+    "heading1": "Dlaczego warto mi zaufać?",
+    "paragraph1": "Od ponad 8 lat zajmuję się kształtowaniem sylwetki i pomagam moim podopiecznym osiągać ich cele. Specjalizuję się w programowaniu treningowym, analizie techniki ćwiczeń oraz optymalizacji metod treningowych.",
+    "heading2": "Moja filozofia treningu",
+    "bullets": [
+      "Wiedza oparta o badania naukowe i wieloletnie doświadczenie",
+      "Indywidualne podejście do każdego podopiecznego",
+      "Maksymalizacja efektów z zachowaniem pełnego bezpieczeństwa",
+      "Poprawna technika ćwiczeń to klucz do zdrowia i efektów",
+      "Stały kontakt i wsparcie na każdym etapie współpracy"
+    ]
+  },
+  "services": {
+    "title": "MOJA OFERTA",
+    "subtitle": "Wybierz formę współpracy dopasowaną do Twoich potrzeb",
+    "description": "Oferuję kompleksowe usługi treningowe i dietetyczne dla osób na każdym poziomie zaawansowania.",
+    "items": [
+      {
+        "title": "Prowadzenie Treningowe Online",
+        "description": "Całkowita opieka trenerska z indywidualnym planem treningowym. Analiza techniki ćwiczeń, cotygodniowy monitoring postępów, dostosowanie planu do Twoich możliwości i celów. Stały kontakt przez komunikator.",
+        "keywords": "trener personalny online, plan treningowy, opieka trenerska",
+        "price": "od 327 zł / miesiąc"
+      },
+      {
+        "title": "Prowadzenie Dietetyczno-Treningowe",
+        "description": "Kompleksowa opieka: indywidualny plan treningowy + plan żywieniowy. Dopasowany jadłospis, monitoring postępów, analiza składu ciała, stały kontakt i modyfikacje planów.",
+        "keywords": "dieta i trening, jadłospis, plan żywieniowy, redukcja, masa",
+        "price": "od 427 zł / miesiąc"
+      },
+      {
+        "title": "Plan Treningowy Jednorazowy",
+        "description": "Indywidualny 8-12 tygodniowy plan treningowy z filmami instruktażowymi. Szczegółowy opis wszystkich parametrów treningowych, dostosowany do Twojego poziomu i możliwości sprzętowych.",
+        "keywords": "plan treningowy, ćwiczenia na siłowni, trening w domu",
+        "price": "217 zł"
+      },
+      {
+        "title": "Plan Dietetyczny",
+        "description": "7-dniowy jadłospis dopasowany do Twojego trybu życia. Uwzględniamy Twoje preferencje żywieniowe, cel sylwetkowy oraz umiejętności kulinarne. Prosty i skuteczny sposób na zmianę nawyków żywieniowych.",
+        "keywords": "dieta, jadłospis, plan żywieniowy, zdrowe odżywianie",
+        "price": "147 zł"
+      },
+      {
+        "title": "Pakiet: Plan Treningowy + Dieta",
+        "description": "Kompleksowy pakiet dla osób chcących zacząć swoją przemianę. Indywidualny plan treningowy + plan dietetyczny w jednym. Najlepsza opcja startu dla początkujących.",
+        "keywords": "pakiet trening i dieta, metamorfoza, transformacja",
+        "price": "317 zł"
+      },
+      {
+        "title": "Konsultacja Online",
+        "description": "60-minutowa konsultacja video z analizą Twojej sytuacji. Omówienie celów, możliwości, dobór strategii treningowej i żywieniowej. Odpowiedzi na wszystkie pytania dotyczące treningu i diety.",
+        "keywords": "konsultacja trenerska, porady treningowe, analiza",
+        "price": "150 zł / 60 min"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Skontaktuj Się",
+    "subtitle": "Masz pytania? Chcesz rozpocząć współpracę? Napisz do mnie!",
+    "phone": "+48 123 456 789",
+    "email": "kontakt@sztangastudio.pl",
+    "address": "ul. Sportowa 15",
+    "city": "00-001 Warszawa",
+    "hours": "Pon-Pt: 8:00 - 20:00\nSob: 10:00 - 16:00\nNiedz: zamknięte",
+    "social": {
+      "instagram": "@sztangastudio",
+      "youtube": "Sztanga Studio",
+      "tiktok": "@sztangastudio"
+    }
+  }
+}
