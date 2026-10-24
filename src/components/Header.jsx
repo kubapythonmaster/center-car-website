@@ -44,9 +44,15 @@ const Header = () => {
         <div className="flex items-center justify-between py-6">
           
           {/* Logo */}
-          <Link to="/" className="flex items-center hover:opacity-80 transition-opacity">
+          <Link 
+            to="/" 
+            onClick={() => {
+              window.scrollTo({ top: 0, behavior: 'smooth' })
+            }}
+            className="flex items-center hover:opacity-80 transition-opacity"
+          >
             <img 
-              src="/logo-centercar.png" 
+              src="/center-car-website/logo-centercar.png" 
               alt="Center Car" 
               className="h-20 sm:h-24 w-auto"
             />
