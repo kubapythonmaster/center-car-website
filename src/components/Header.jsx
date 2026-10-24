@@ -52,7 +52,7 @@ const Header = () => {
             className="flex items-center hover:opacity-80 transition-opacity"
           >
             <img 
-              src="/center-car-website/logo-centercar.png" 
+              src="/logo-centercar.png" 
               alt="Center Car" 
               className="h-20 sm:h-24 w-auto"
             />

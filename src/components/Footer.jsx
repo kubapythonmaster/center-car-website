@@ -33,7 +33,7 @@ const Footer = () => {
             <div className="mb-6">
               <Link to="/" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>
                 <img 
-                  src="/center-car-website/logo-centercar.png" 
+                  src="/logo-centercar.png" 
                   alt="Center Car" 
                   className="h-20 w-auto mb-4 hover:opacity-80 transition-opacity cursor-pointer"
                 />
